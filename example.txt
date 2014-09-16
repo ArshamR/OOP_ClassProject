@@ -1,0 +1,36 @@
+CIA
+987 Jefferson Blvd
+Baltimore
+00754
+1
+key
+FBI
+1 Lincoln Ave.
+Washington
+00234
+2
+key
+Joe
+1111
+Laguna
+unknown
+3
+key
+Los Angeles Airport
+12345 Main
+El Segundo
+90245
+3
+key
+Los Angeles Dodgers
+12345 Chevaz Ravine
+Los Angeles
+90277
+3
+nice to have
+Saddleback College
+28000 Marguerite Pkwy
+Mission Viejo
+92692
+3
+nice to have
